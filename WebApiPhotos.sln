@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiPhotos", "WebApiPhotos\WebApiPhotos.csproj", "{AA7729B0-DB2A-4F47-B4A4-40D6805609D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PictureWebApi", "PictureWebApi\PictureWebApi.csproj", "{F354BB56-DAE7-46AA-8CF5-CF7CCA8BB2FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA7729B0-DB2A-4F47-B4A4-40D6805609D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA7729B0-DB2A-4F47-B4A4-40D6805609D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA7729B0-DB2A-4F47-B4A4-40D6805609D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA7729B0-DB2A-4F47-B4A4-40D6805609D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F354BB56-DAE7-46AA-8CF5-CF7CCA8BB2FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F354BB56-DAE7-46AA-8CF5-CF7CCA8BB2FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F354BB56-DAE7-46AA-8CF5-CF7CCA8BB2FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F354BB56-DAE7-46AA-8CF5-CF7CCA8BB2FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A911D2D3-37BC-449F-ABBC-1DB3F619FE8F}
+	EndGlobalSection
+EndGlobal
